@@ -7,7 +7,7 @@ The project includes a Tkinter desktop interface, adjustable scroll settings, ca
 > **Project status:** Experimental / archived. The repository is best suited to learning and experimentation; features and stability vary between versions.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![Status](https://img.shields.io/badge/Status-Archived%20Prototype-orange.svg)
 
@@ -56,7 +56,7 @@ The latest implementation is `attempt_6/App_v6_camError.py`.
 ### Prerequisites
 
 - Windows 10 or later is recommended
-- Python 3.10 or later
+- Python 3.8 or later
 - A webcam
 - `pip` and a virtual-environment tool
 - Access to a desktop or application window containing scrollable content
